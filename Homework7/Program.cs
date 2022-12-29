@@ -76,7 +76,7 @@ void PrintArray(int[,] array)
 */
 
  //Задача 52. Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
-
+/*
 Console.WriteLine("введите количество строк: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите количество столбцов: ");
@@ -126,3 +126,4 @@ void PrintArray(int[,] array)
         Console.WriteLine("");
     }
 }
+*/
