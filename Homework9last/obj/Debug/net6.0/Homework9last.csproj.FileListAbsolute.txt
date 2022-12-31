@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\bin\Debug\net6.0\Homework9last.exe
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\bin\Debug\net6.0\Homework9last.deps.json
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\bin\Debug\net6.0\Homework9last.runtimeconfig.json
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\bin\Debug\net6.0\Homework9last.dll
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\bin\Debug\net6.0\Homework9last.pdb
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.dll
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\refint\Homework9last.dll
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.pdb
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\Homework9last.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DEVELOP\C#Marina\Homework9last\obj\Debug\net6.0\ref\Homework9last.dll
