@@ -15,3 +15,26 @@
  PrintNumbers(n);
  */
 
+//Задача 66: Задайте значения M и N. Напишите программу, которая найдёт сумму натуральных элементов в промежутке от M до N.
+/*
+     int SumNumbers(int m, int n)
+     {
+          if(m < n)
+          { 
+             return m + SumNumbers(m + 1,n);
+          }
+          if(m > n)
+          {  
+             return m + SumNumbers(m - 1,n);
+          }
+
+        return n;       
+     }
+    
+     Console.Write("Enter number M: ");
+     int m = Convert.ToInt32(Console.ReadLine());
+     Console.Write("Enter number N: ");
+     int n = Convert.ToInt32(Console.ReadLine());
+     int res = SumNumbers(m,n);
+     Console.WriteLine("Sum: " + (res));
+     */
